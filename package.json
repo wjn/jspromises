@@ -1,0 +1,11 @@
+{
+  "name": "jspromises",
+  "version": "1.0.0",
+  "description": "Playground for exercises in the book, \"Javascript with Promises\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Nielsen",
+  "license": "MIT"
+}
